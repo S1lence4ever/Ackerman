@@ -1,0 +1,11 @@
+:root{
+    background-color: black; 
+}    
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
